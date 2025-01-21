@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm [Your Name], a passionate **Senior Frontend Developer** 🚀  
+I'm Amit Maity, a passionate **Senior Frontend Developer** 🚀  
 
 ## 💻 Tech Stack
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3, SCSS  
